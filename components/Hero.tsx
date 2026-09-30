@@ -87,7 +87,7 @@ export const Hero: React.FC = () => {
               </a>
 
               <a
-                href="/Palash_Pathare_resume (1).pdf"
+                href="/PalashResume26.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-6 py-4 rounded-full glass-card hover:bg-white/10 text-white font-display font-semibold text-xs uppercase tracking-widest border border-white/15 hover:border-white/40 transition-all duration-300"

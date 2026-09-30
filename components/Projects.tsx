@@ -42,40 +42,41 @@ const projects: Project[] = [
     category: "STATIC ANALYSIS & AST",
     tags: ["React", "Node.js", "AST Analysis", "Mermaid.js", "WebSockets", "Vercel"],
     images: [
-      "/codebase-xray-1.png",
-      "/codebase-xray-2.png",
-      "/codebase-xray-3.png",
-      "/codebase-xray-4.png"
+      "/CODEBASE-XRAY-1.jpg",
+      "/CODEBASE-XRAY-2.jpg",
+      "/CODEBASE-XRAY-3.jpg",
+      "/CODEBASE-XRAY-4.jpg",
+      "/CODEBASE-XRAY-5.jpg"
     ],
     githubLink: "https://github.com/Palash-oss/Codebase",
     liveLink: "https://codebase-eight-murex.vercel.app/"
   },
   {
     id: "03",
-    title: "GitHub Automation Bot 🤖",
-    description: "A production-grade, highly responsive GitHub automation bot built with Next.js 14 (App Router), Auth.js, Prisma ORM, Neon serverless Postgres, Octokit REST/Webhooks, and Slack Block Kit. Features an idempotent webhook engine, dynamic rules binder, real-time live polling dashboard, and interactive Slack writeback cards.",
-    category: "DEVOPS & AUTOMATION",
-    tags: ["Next.js 14", "Prisma", "Neon Postgres", "Octokit", "Slack API", "Auth.js"],
+    title: "EcoKernel — Low-Carbon Freight Logistics OS",
+    description: "An AI-powered operating system for low-carbon commercial freight that optimizes transit speed, operational costs, and CO₂ emissions. Built on physics-informed modeling (aerodynamic drag, elevation gradients, payload weights) and a Quantum-Inspired Genetic Algorithm (QIGA), EcoKernel solves multi-objective Green Vehicle Routing Problems (GVRP) in milliseconds. It eliminates high-cost 'border traps' with 24-hour predictive curfew shields and congestion heatmaps, pairs long-haul trucking with India’s Dedicated Freight Rail Corridors (DFC) to slash emissions by up to 80%, and delivers cryptographic SHA-256 verifiable carbon certificates compliant with ISO 14083, GLEC v3.0, and EU CBAM reporting.",
+    category: "GREEN LOGISTICS & AI OPTIMIZATION",
+    tags: ["Python", "FastAPI", "React", "QIGA / Meta-Heuristics", "ISO 14083", "Gemini RAG"],
     images: [
-      "/github-bot-1.png",
-      "/github-bot-2.png",
-      "/github-bot-3.png"
+      "/ECOKERNEL-1.jpg",
+      "/ECOKERNEL-2.jpg",
+      "/ECOKERNEL-3.jpg",
+      "/ECOKERNEL-4.jpg"
     ],
-    githubLink: "https://github.com/Palash-oss/github-automation-bot",
-    liveLink: "https://github-event-b3z3.vercel.app/"
+    githubLink: "https://github.com/Palash-oss/Ecokernel"
   }
 ];
 
 const CaseStudy: React.FC<{ project: Project; onOpenLightbox: (images: string[], index: number) => void }> = ({ project, onOpenLightbox }) => {
   return (
-    <div className="relative w-full py-12 md:py-16 px-4 sm:px-6 lg:px-8 border-b border-white/10 group">
+    <div className="relative w-full py-10 sm:py-14 md:py-16 px-2 sm:px-6 lg:px-8 border-b border-white/10 group">
       <div className="grid lg:grid-cols-12 gap-8 lg:gap-12 items-start">
         {/* Left Column: Project Header & Info */}
         <motion.div
-          initial={{ opacity: 0, y: 30 }}
+          initial={{ opacity: 0.01, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, amount: 0.1 }}
-          transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
+          viewport={{ once: true, margin: "250px 0px" }}
+          transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
           className="lg:col-span-5 space-y-6"
         >
           <div className="flex items-center gap-3">
@@ -141,11 +142,11 @@ const CaseStudy: React.FC<{ project: Project; onOpenLightbox: (images: string[],
 
         {/* Right Column: Interactive Image Carousel Card */}
         <motion.div
-          initial={{ opacity: 0, scale: 0.97, y: 30 }}
-          whileInView={{ opacity: 1, scale: 1, y: 0 }}
-          viewport={{ once: true, amount: 0.1 }}
-          transition={{ duration: 0.7, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
-          className="lg:col-span-7"
+          initial={{ opacity: 0.01, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "250px 0px" }}
+          transition={{ duration: 0.6, delay: 0.05, ease: [0.16, 1, 0.3, 1] }}
+          className="lg:col-span-7 w-full"
         >
           <div className="relative rounded-2xl overflow-hidden glass-card border border-white/10 group/card shadow-[0_20px_50px_rgba(0,0,0,0.8)]">
             <Swiper
@@ -153,6 +154,8 @@ const CaseStudy: React.FC<{ project: Project; onOpenLightbox: (images: string[],
               navigation={true}
               pagination={{ clickable: true, dynamicBullets: true }}
               autoplay={{ delay: 5000, disableOnInteraction: false }}
+              observer={true}
+              observeParents={true}
               className="w-full h-auto"
             >
               {project.images.map((imgUrl, idx) => (
@@ -165,7 +168,7 @@ const CaseStudy: React.FC<{ project: Project; onOpenLightbox: (images: string[],
                     <img
                       src={imgUrl}
                       alt={`${project.title} - Preview ${idx + 1}`}
-                      className="w-full h-[320px] sm:h-[420px] object-cover object-top transition-transform duration-700 group-hover/slide:scale-105"
+                      className="w-full h-[280px] sm:h-[420px] object-cover object-top transition-transform duration-700 group-hover/slide:scale-105"
                       loading="eager"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60 group-hover/slide:opacity-30 transition-opacity" />
@@ -232,7 +235,7 @@ export const Projects: React.FC = () => {
   }, [lightbox.isOpen, closeLightbox, nextImage, prevImage]);
 
   return (
-    <div ref={sectionRef} id="projects" className="w-full py-16 px-4 sm:px-6 lg:px-8">
+    <div ref={sectionRef} className="w-full py-6 sm:py-16 px-2 sm:px-6 lg:px-8">
       {/* Header */}
       <div className="flex flex-col space-y-4 mb-12">
         <div className="flex items-center gap-2 text-gray-400 mono text-xs font-bold uppercase tracking-widest">

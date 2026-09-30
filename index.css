@@ -106,3 +106,45 @@ h1, h2, h3, .font-display {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(255, 255, 255, 0.5);
 }
+
+/* Swiper Custom Styling & Responsive Fixes */
+.swiper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #ffffff !important;
+  width: 36px !important;
+  height: 36px !important;
+  background: rgba(0, 0, 0, 0.7) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 9999px !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  transition: all 0.3s ease;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 13px !important;
+  font-weight: 800;
+}
+
+.swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.4) !important;
+  opacity: 0.8 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff !important;
+  width: 20px !important;
+  border-radius: 9999px !important;
+}
