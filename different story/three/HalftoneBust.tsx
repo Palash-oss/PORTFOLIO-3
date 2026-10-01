@@ -96,60 +96,38 @@ export const HalftoneBustCanvas: React.FC<HalftoneBustProps> = ({
       const pSize = 2.2;
       const tau = Math.PI * 2;
 
-      // 1. Draw base batched particles
+      // 1. Draw base batched particles (authentic colors: laser crimson blindfold, metallic bronze/charcoal bust)
       for (let b = 0; b < batches.length; b++) {
         const batch = batches[b];
         ctx.fillStyle = batch.color;
         ctx.beginPath();
         const end = batch.startIndex + batch.count;
         for (let i = batch.startIndex; i < end; i++) {
-          // If particle has high energy from quantum disturbance, skip here and draw in energy pass
-          if (energy[i] > 0.15) continue;
           const px = posX[i];
           const py = posY[i];
-          ctx.moveTo(px + pSize, py);
-          ctx.arc(px, py, pSize, 0, tau);
+          const curSize = energy[i] > 0.05 ? pSize * (1 + energy[i] * 0.25) : pSize;
+          ctx.moveTo(px + curSize, py);
+          ctx.arc(px, py, curSize, 0, tau);
         }
         ctx.fill();
       }
 
-      // 2. Draw energized particles (quantum scatter glow: laser crimson / warm electric amber)
-      let hasEnergized = false;
-      for (let i = 0; i < totalParticles; i++) {
-        if (energy[i] > 0.15) {
-          if (!hasEnergized) {
-            hasEnergized = true;
-            ctx.fillStyle = '#FF2A14'; // Laser Crimson
-            ctx.beginPath();
-          }
-          const px = posX[i];
-          const py = posY[i];
-          const eSize = pSize * (1 + energy[i] * 0.4);
-          ctx.moveTo(px + eSize, py);
-          ctx.arc(px, py, eSize, 0, tau);
-        }
-      }
-      if (hasEnergized) {
-        ctx.fill();
-      }
-
-      // 3. Neural Synaptic Pulse Wave
+      // 2. Subtle specular shimmer wave catching the 3D contour (warm white light, NOT red)
       const time = performance.now() * 0.001;
-      const pulsePeriod = 3.6; // seconds
+      const pulsePeriod = 4.2; // seconds
       const pulseProg = (time % pulsePeriod) / pulsePeriod;
-      // Wave travels downwards from crown of head to neck
       const waveY = pulseProg * (height * 1.15) - height * 0.08;
 
-      ctx.fillStyle = 'rgba(255, 42, 20, 0.72)'; // Electric Laser Crimson wave
+      ctx.fillStyle = 'rgba(255, 255, 255, 0.22)';
       ctx.beginPath();
       let waveDrawn = false;
       for (let i = 0; i < totalParticles; i += 2) {
         const py = posY[i];
         const dist = Math.abs(py - waveY);
-        if (dist < 26) {
+        if (dist < 22) {
           waveDrawn = true;
           const px = posX[i];
-          const wSize = pSize * 1.15;
+          const wSize = pSize * 1.12;
           ctx.moveTo(px + wSize, py);
           ctx.arc(px, py, wSize, 0, tau);
         }

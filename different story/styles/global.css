@@ -352,18 +352,7 @@ body {
   width: 100%;
 }
 
-.hero-sun {
-  position: absolute;
-  top: 1%;
-  left: 54%;
-  transform: translateX(-50%);
-  width: min(38%, 320px);
-  aspect-ratio: 1;
-  border-radius: 9999px;
-  background-color: var(--red);
-  z-index: 1;
-  pointer-events: none;
-}
+/* .hero-sun removed per user request */
 
 .hero-canvas-wrap {
   position: absolute;
