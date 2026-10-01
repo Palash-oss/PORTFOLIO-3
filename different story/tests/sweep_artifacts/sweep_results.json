@@ -1,0 +1,2809 @@
+[
+  {
+    "step": 0,
+    "fraction": 0,
+    "scrollY": 0,
+    "visibleCardsCount": 1,
+    "illegalOverlap": false
+  },
+  {
+    "step": 1,
+    "fraction": 0.005,
+    "scrollY": 41,
+    "visibleCardsCount": 1,
+    "illegalOverlap": false
+  },
+  {
+    "step": 2,
+    "fraction": 0.01,
+    "scrollY": 81,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 3,
+    "fraction": 0.015,
+    "scrollY": 122,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 4,
+    "fraction": 0.02,
+    "scrollY": 162,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 5,
+    "fraction": 0.025,
+    "scrollY": 203,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 6,
+    "fraction": 0.03,
+    "scrollY": 243,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 7,
+    "fraction": 0.035,
+    "scrollY": 284,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 8,
+    "fraction": 0.04,
+    "scrollY": 324,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 9,
+    "fraction": 0.045,
+    "scrollY": 365,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 10,
+    "fraction": 0.05,
+    "scrollY": 405,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 11,
+    "fraction": 0.055,
+    "scrollY": 446,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 12,
+    "fraction": 0.06,
+    "scrollY": 486,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 13,
+    "fraction": 0.065,
+    "scrollY": 527,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 14,
+    "fraction": 0.07,
+    "scrollY": 567,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 15,
+    "fraction": 0.075,
+    "scrollY": 608,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 16,
+    "fraction": 0.08,
+    "scrollY": 648,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 17,
+    "fraction": 0.085,
+    "scrollY": 689,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 18,
+    "fraction": 0.09,
+    "scrollY": 729,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 19,
+    "fraction": 0.095,
+    "scrollY": 770,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 20,
+    "fraction": 0.1,
+    "scrollY": 810,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 21,
+    "fraction": 0.105,
+    "scrollY": 851,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 22,
+    "fraction": 0.11,
+    "scrollY": 891,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 23,
+    "fraction": 0.115,
+    "scrollY": 932,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 24,
+    "fraction": 0.12,
+    "scrollY": 972,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 25,
+    "fraction": 0.125,
+    "scrollY": 1013,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 26,
+    "fraction": 0.13,
+    "scrollY": 1053,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 27,
+    "fraction": 0.135,
+    "scrollY": 1094,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 28,
+    "fraction": 0.14,
+    "scrollY": 1134,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 29,
+    "fraction": 0.145,
+    "scrollY": 1175,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 30,
+    "fraction": 0.15,
+    "scrollY": 1215,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 31,
+    "fraction": 0.155,
+    "scrollY": 1256,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 32,
+    "fraction": 0.16,
+    "scrollY": 1296,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 33,
+    "fraction": 0.165,
+    "scrollY": 1337,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 34,
+    "fraction": 0.17,
+    "scrollY": 1377,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 35,
+    "fraction": 0.175,
+    "scrollY": 1418,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 36,
+    "fraction": 0.18,
+    "scrollY": 1458,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 37,
+    "fraction": 0.185,
+    "scrollY": 1499,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 38,
+    "fraction": 0.19,
+    "scrollY": 1539,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 39,
+    "fraction": 0.195,
+    "scrollY": 1580,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 40,
+    "fraction": 0.2,
+    "scrollY": 1620,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 41,
+    "fraction": 0.205,
+    "scrollY": 1661,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 42,
+    "fraction": 0.21,
+    "scrollY": 1701,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 43,
+    "fraction": 0.215,
+    "scrollY": 1742,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 44,
+    "fraction": 0.22,
+    "scrollY": 1782,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 45,
+    "fraction": 0.225,
+    "scrollY": 1823,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 46,
+    "fraction": 0.23,
+    "scrollY": 1863,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 47,
+    "fraction": 0.235,
+    "scrollY": 1904,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 48,
+    "fraction": 0.24,
+    "scrollY": 1944,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 49,
+    "fraction": 0.245,
+    "scrollY": 1985,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 50,
+    "fraction": 0.25,
+    "scrollY": 2025,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 51,
+    "fraction": 0.255,
+    "scrollY": 2066,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 52,
+    "fraction": 0.26,
+    "scrollY": 2106,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 53,
+    "fraction": 0.265,
+    "scrollY": 2147,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 54,
+    "fraction": 0.27,
+    "scrollY": 2187,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 55,
+    "fraction": 0.275,
+    "scrollY": 2228,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 56,
+    "fraction": 0.28,
+    "scrollY": 2268,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 57,
+    "fraction": 0.285,
+    "scrollY": 2309,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 58,
+    "fraction": 0.29,
+    "scrollY": 2349,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 59,
+    "fraction": 0.295,
+    "scrollY": 2390,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 60,
+    "fraction": 0.3,
+    "scrollY": 2430,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 61,
+    "fraction": 0.305,
+    "scrollY": 2471,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 62,
+    "fraction": 0.31,
+    "scrollY": 2511,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 63,
+    "fraction": 0.315,
+    "scrollY": 2552,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 64,
+    "fraction": 0.32,
+    "scrollY": 2592,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 65,
+    "fraction": 0.325,
+    "scrollY": 2633,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 66,
+    "fraction": 0.33,
+    "scrollY": 2673,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 67,
+    "fraction": 0.335,
+    "scrollY": 2714,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 68,
+    "fraction": 0.34,
+    "scrollY": 2754,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 69,
+    "fraction": 0.345,
+    "scrollY": 2795,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 70,
+    "fraction": 0.35,
+    "scrollY": 2835,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 71,
+    "fraction": 0.355,
+    "scrollY": 2876,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 72,
+    "fraction": 0.36,
+    "scrollY": 2916,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 73,
+    "fraction": 0.365,
+    "scrollY": 2957,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 74,
+    "fraction": 0.37,
+    "scrollY": 2997,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 75,
+    "fraction": 0.375,
+    "scrollY": 3038,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 76,
+    "fraction": 0.38,
+    "scrollY": 3078,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 77,
+    "fraction": 0.385,
+    "scrollY": 3119,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 78,
+    "fraction": 0.39,
+    "scrollY": 3159,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 79,
+    "fraction": 0.395,
+    "scrollY": 3200,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 80,
+    "fraction": 0.4,
+    "scrollY": 3240,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 81,
+    "fraction": 0.405,
+    "scrollY": 3281,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 82,
+    "fraction": 0.41,
+    "scrollY": 3321,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 83,
+    "fraction": 0.415,
+    "scrollY": 3362,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 84,
+    "fraction": 0.42,
+    "scrollY": 3402,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 85,
+    "fraction": 0.425,
+    "scrollY": 3443,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 86,
+    "fraction": 0.43,
+    "scrollY": 3483,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 87,
+    "fraction": 0.435,
+    "scrollY": 3524,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 88,
+    "fraction": 0.44,
+    "scrollY": 3564,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 89,
+    "fraction": 0.445,
+    "scrollY": 3605,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 90,
+    "fraction": 0.45,
+    "scrollY": 3645,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 91,
+    "fraction": 0.455,
+    "scrollY": 3686,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 92,
+    "fraction": 0.46,
+    "scrollY": 3726,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 93,
+    "fraction": 0.465,
+    "scrollY": 3767,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 94,
+    "fraction": 0.47,
+    "scrollY": 3807,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 95,
+    "fraction": 0.475,
+    "scrollY": 3848,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 96,
+    "fraction": 0.48,
+    "scrollY": 3888,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 97,
+    "fraction": 0.485,
+    "scrollY": 3929,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 98,
+    "fraction": 0.49,
+    "scrollY": 3969,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 99,
+    "fraction": 0.495,
+    "scrollY": 4010,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 100,
+    "fraction": 0.5,
+    "scrollY": 4050,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 101,
+    "fraction": 0.505,
+    "scrollY": 4091,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 102,
+    "fraction": 0.51,
+    "scrollY": 4131,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 103,
+    "fraction": 0.515,
+    "scrollY": 4172,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 104,
+    "fraction": 0.52,
+    "scrollY": 4212,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 105,
+    "fraction": 0.525,
+    "scrollY": 4253,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 106,
+    "fraction": 0.53,
+    "scrollY": 4293,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 107,
+    "fraction": 0.535,
+    "scrollY": 4334,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 108,
+    "fraction": 0.54,
+    "scrollY": 4374,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 109,
+    "fraction": 0.545,
+    "scrollY": 4415,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 110,
+    "fraction": 0.55,
+    "scrollY": 4455,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 111,
+    "fraction": 0.555,
+    "scrollY": 4496,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 112,
+    "fraction": 0.56,
+    "scrollY": 4536,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 113,
+    "fraction": 0.565,
+    "scrollY": 4577,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 114,
+    "fraction": 0.57,
+    "scrollY": 4617,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 115,
+    "fraction": 0.575,
+    "scrollY": 4658,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 116,
+    "fraction": 0.58,
+    "scrollY": 4698,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 117,
+    "fraction": 0.585,
+    "scrollY": 4739,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 118,
+    "fraction": 0.59,
+    "scrollY": 4779,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 119,
+    "fraction": 0.595,
+    "scrollY": 4820,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 120,
+    "fraction": 0.6,
+    "scrollY": 4860,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 121,
+    "fraction": 0.605,
+    "scrollY": 4901,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 122,
+    "fraction": 0.61,
+    "scrollY": 4941,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 123,
+    "fraction": 0.615,
+    "scrollY": 4982,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 124,
+    "fraction": 0.62,
+    "scrollY": 5022,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 125,
+    "fraction": 0.625,
+    "scrollY": 5063,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 126,
+    "fraction": 0.63,
+    "scrollY": 5103,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 127,
+    "fraction": 0.635,
+    "scrollY": 5144,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 128,
+    "fraction": 0.64,
+    "scrollY": 5184,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 129,
+    "fraction": 0.645,
+    "scrollY": 5225,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 130,
+    "fraction": 0.65,
+    "scrollY": 5265,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 131,
+    "fraction": 0.655,
+    "scrollY": 5306,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 132,
+    "fraction": 0.66,
+    "scrollY": 5346,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 133,
+    "fraction": 0.665,
+    "scrollY": 5387,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 134,
+    "fraction": 0.67,
+    "scrollY": 5427,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 135,
+    "fraction": 0.675,
+    "scrollY": 5468,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 136,
+    "fraction": 0.68,
+    "scrollY": 5508,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 137,
+    "fraction": 0.685,
+    "scrollY": 5549,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 138,
+    "fraction": 0.69,
+    "scrollY": 5589,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 139,
+    "fraction": 0.695,
+    "scrollY": 5630,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 140,
+    "fraction": 0.7,
+    "scrollY": 5670,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 141,
+    "fraction": 0.705,
+    "scrollY": 5711,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 142,
+    "fraction": 0.71,
+    "scrollY": 5751,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 143,
+    "fraction": 0.715,
+    "scrollY": 5792,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 144,
+    "fraction": 0.72,
+    "scrollY": 5832,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 145,
+    "fraction": 0.725,
+    "scrollY": 5873,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 146,
+    "fraction": 0.73,
+    "scrollY": 5913,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 147,
+    "fraction": 0.735,
+    "scrollY": 5954,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 148,
+    "fraction": 0.74,
+    "scrollY": 5994,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 149,
+    "fraction": 0.745,
+    "scrollY": 6035,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 150,
+    "fraction": 0.75,
+    "scrollY": 6075,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 151,
+    "fraction": 0.755,
+    "scrollY": 6116,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 152,
+    "fraction": 0.76,
+    "scrollY": 6156,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 153,
+    "fraction": 0.765,
+    "scrollY": 6197,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 154,
+    "fraction": 0.77,
+    "scrollY": 6237,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 155,
+    "fraction": 0.775,
+    "scrollY": 6278,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 156,
+    "fraction": 0.78,
+    "scrollY": 6318,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 157,
+    "fraction": 0.785,
+    "scrollY": 6359,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 158,
+    "fraction": 0.79,
+    "scrollY": 6399,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 159,
+    "fraction": 0.795,
+    "scrollY": 6440,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 160,
+    "fraction": 0.8,
+    "scrollY": 6480,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 161,
+    "fraction": 0.805,
+    "scrollY": 6521,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 162,
+    "fraction": 0.81,
+    "scrollY": 6561,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 163,
+    "fraction": 0.815,
+    "scrollY": 6602,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 164,
+    "fraction": 0.82,
+    "scrollY": 6642,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 165,
+    "fraction": 0.825,
+    "scrollY": 6683,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 166,
+    "fraction": 0.83,
+    "scrollY": 6723,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 167,
+    "fraction": 0.835,
+    "scrollY": 6764,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 168,
+    "fraction": 0.84,
+    "scrollY": 6804,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 169,
+    "fraction": 0.845,
+    "scrollY": 6845,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 170,
+    "fraction": 0.85,
+    "scrollY": 6885,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 171,
+    "fraction": 0.855,
+    "scrollY": 6926,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 172,
+    "fraction": 0.86,
+    "scrollY": 6966,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 173,
+    "fraction": 0.865,
+    "scrollY": 7007,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 174,
+    "fraction": 0.87,
+    "scrollY": 7047,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 175,
+    "fraction": 0.875,
+    "scrollY": 7088,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 176,
+    "fraction": 0.88,
+    "scrollY": 7128,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 177,
+    "fraction": 0.885,
+    "scrollY": 7169,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 178,
+    "fraction": 0.89,
+    "scrollY": 7209,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 179,
+    "fraction": 0.895,
+    "scrollY": 7250,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 180,
+    "fraction": 0.9,
+    "scrollY": 7290,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 181,
+    "fraction": 0.905,
+    "scrollY": 7331,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 182,
+    "fraction": 0.91,
+    "scrollY": 7371,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 183,
+    "fraction": 0.915,
+    "scrollY": 7412,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 184,
+    "fraction": 0.92,
+    "scrollY": 7452,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 185,
+    "fraction": 0.925,
+    "scrollY": 7493,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 186,
+    "fraction": 0.93,
+    "scrollY": 7533,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 187,
+    "fraction": 0.935,
+    "scrollY": 7574,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 188,
+    "fraction": 0.94,
+    "scrollY": 7614,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 189,
+    "fraction": 0.945,
+    "scrollY": 7655,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 190,
+    "fraction": 0.95,
+    "scrollY": 7695,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 191,
+    "fraction": 0.955,
+    "scrollY": 7736,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 192,
+    "fraction": 0.96,
+    "scrollY": 7776,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 193,
+    "fraction": 0.965,
+    "scrollY": 7817,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 194,
+    "fraction": 0.97,
+    "scrollY": 7857,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 195,
+    "fraction": 0.975,
+    "scrollY": 7898,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 196,
+    "fraction": 0.98,
+    "scrollY": 7938,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 197,
+    "fraction": 0.985,
+    "scrollY": 7979,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 198,
+    "fraction": 0.99,
+    "scrollY": 8019,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 199,
+    "fraction": 0.995,
+    "scrollY": 8060,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 200,
+    "fraction": 1,
+    "scrollY": 8100,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 201,
+    "fraction": 0.995,
+    "scrollY": 8060,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 202,
+    "fraction": 0.99,
+    "scrollY": 8019,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 203,
+    "fraction": 0.985,
+    "scrollY": 7979,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 204,
+    "fraction": 0.98,
+    "scrollY": 7938,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 205,
+    "fraction": 0.975,
+    "scrollY": 7898,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 206,
+    "fraction": 0.97,
+    "scrollY": 7857,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 207,
+    "fraction": 0.965,
+    "scrollY": 7817,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 208,
+    "fraction": 0.96,
+    "scrollY": 7776,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 209,
+    "fraction": 0.955,
+    "scrollY": 7736,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 210,
+    "fraction": 0.95,
+    "scrollY": 7695,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 211,
+    "fraction": 0.945,
+    "scrollY": 7655,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 212,
+    "fraction": 0.94,
+    "scrollY": 7614,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 213,
+    "fraction": 0.935,
+    "scrollY": 7574,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 214,
+    "fraction": 0.93,
+    "scrollY": 7533,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 215,
+    "fraction": 0.925,
+    "scrollY": 7493,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 216,
+    "fraction": 0.92,
+    "scrollY": 7452,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 217,
+    "fraction": 0.915,
+    "scrollY": 7412,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 218,
+    "fraction": 0.91,
+    "scrollY": 7371,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 219,
+    "fraction": 0.905,
+    "scrollY": 7331,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 220,
+    "fraction": 0.9,
+    "scrollY": 7290,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 221,
+    "fraction": 0.895,
+    "scrollY": 7250,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 222,
+    "fraction": 0.89,
+    "scrollY": 7209,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 223,
+    "fraction": 0.885,
+    "scrollY": 7169,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 224,
+    "fraction": 0.88,
+    "scrollY": 7128,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 225,
+    "fraction": 0.875,
+    "scrollY": 7088,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 226,
+    "fraction": 0.87,
+    "scrollY": 7047,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 227,
+    "fraction": 0.865,
+    "scrollY": 7007,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 228,
+    "fraction": 0.86,
+    "scrollY": 6966,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 229,
+    "fraction": 0.855,
+    "scrollY": 6926,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 230,
+    "fraction": 0.85,
+    "scrollY": 6885,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 231,
+    "fraction": 0.845,
+    "scrollY": 6845,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 232,
+    "fraction": 0.84,
+    "scrollY": 6804,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 233,
+    "fraction": 0.835,
+    "scrollY": 6764,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 234,
+    "fraction": 0.83,
+    "scrollY": 6723,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 235,
+    "fraction": 0.825,
+    "scrollY": 6683,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 236,
+    "fraction": 0.82,
+    "scrollY": 6642,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 237,
+    "fraction": 0.815,
+    "scrollY": 6602,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 238,
+    "fraction": 0.81,
+    "scrollY": 6561,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 239,
+    "fraction": 0.805,
+    "scrollY": 6521,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 240,
+    "fraction": 0.8,
+    "scrollY": 6480,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 241,
+    "fraction": 0.795,
+    "scrollY": 6440,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 242,
+    "fraction": 0.79,
+    "scrollY": 6399,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 243,
+    "fraction": 0.785,
+    "scrollY": 6359,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 244,
+    "fraction": 0.78,
+    "scrollY": 6318,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 245,
+    "fraction": 0.775,
+    "scrollY": 6278,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 246,
+    "fraction": 0.77,
+    "scrollY": 6237,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 247,
+    "fraction": 0.765,
+    "scrollY": 6197,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 248,
+    "fraction": 0.76,
+    "scrollY": 6156,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 249,
+    "fraction": 0.755,
+    "scrollY": 6116,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 250,
+    "fraction": 0.75,
+    "scrollY": 6075,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 251,
+    "fraction": 0.745,
+    "scrollY": 6035,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 252,
+    "fraction": 0.74,
+    "scrollY": 5994,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 253,
+    "fraction": 0.735,
+    "scrollY": 5954,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 254,
+    "fraction": 0.73,
+    "scrollY": 5913,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 255,
+    "fraction": 0.725,
+    "scrollY": 5873,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 256,
+    "fraction": 0.72,
+    "scrollY": 5832,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 257,
+    "fraction": 0.715,
+    "scrollY": 5792,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 258,
+    "fraction": 0.71,
+    "scrollY": 5751,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 259,
+    "fraction": 0.705,
+    "scrollY": 5711,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 260,
+    "fraction": 0.7,
+    "scrollY": 5670,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 261,
+    "fraction": 0.695,
+    "scrollY": 5630,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 262,
+    "fraction": 0.69,
+    "scrollY": 5589,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 263,
+    "fraction": 0.685,
+    "scrollY": 5549,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 264,
+    "fraction": 0.68,
+    "scrollY": 5508,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 265,
+    "fraction": 0.675,
+    "scrollY": 5468,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 266,
+    "fraction": 0.67,
+    "scrollY": 5427,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 267,
+    "fraction": 0.665,
+    "scrollY": 5387,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 268,
+    "fraction": 0.66,
+    "scrollY": 5346,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 269,
+    "fraction": 0.655,
+    "scrollY": 5306,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 270,
+    "fraction": 0.65,
+    "scrollY": 5265,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 271,
+    "fraction": 0.645,
+    "scrollY": 5225,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 272,
+    "fraction": 0.64,
+    "scrollY": 5184,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 273,
+    "fraction": 0.635,
+    "scrollY": 5144,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 274,
+    "fraction": 0.63,
+    "scrollY": 5103,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 275,
+    "fraction": 0.625,
+    "scrollY": 5063,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 276,
+    "fraction": 0.62,
+    "scrollY": 5022,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 277,
+    "fraction": 0.615,
+    "scrollY": 4982,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 278,
+    "fraction": 0.61,
+    "scrollY": 4941,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 279,
+    "fraction": 0.605,
+    "scrollY": 4901,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 280,
+    "fraction": 0.6,
+    "scrollY": 4860,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 281,
+    "fraction": 0.595,
+    "scrollY": 4820,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 282,
+    "fraction": 0.59,
+    "scrollY": 4779,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 283,
+    "fraction": 0.585,
+    "scrollY": 4739,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 284,
+    "fraction": 0.58,
+    "scrollY": 4698,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 285,
+    "fraction": 0.575,
+    "scrollY": 4658,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 286,
+    "fraction": 0.57,
+    "scrollY": 4617,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 287,
+    "fraction": 0.565,
+    "scrollY": 4577,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 288,
+    "fraction": 0.56,
+    "scrollY": 4536,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 289,
+    "fraction": 0.555,
+    "scrollY": 4496,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 290,
+    "fraction": 0.55,
+    "scrollY": 4455,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 291,
+    "fraction": 0.545,
+    "scrollY": 4415,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 292,
+    "fraction": 0.54,
+    "scrollY": 4374,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 293,
+    "fraction": 0.535,
+    "scrollY": 4334,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 294,
+    "fraction": 0.53,
+    "scrollY": 4293,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 295,
+    "fraction": 0.525,
+    "scrollY": 4253,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 296,
+    "fraction": 0.52,
+    "scrollY": 4212,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 297,
+    "fraction": 0.515,
+    "scrollY": 4172,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 298,
+    "fraction": 0.51,
+    "scrollY": 4131,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 299,
+    "fraction": 0.505,
+    "scrollY": 4091,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 300,
+    "fraction": 0.5,
+    "scrollY": 4050,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 301,
+    "fraction": 0.495,
+    "scrollY": 4010,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 302,
+    "fraction": 0.49,
+    "scrollY": 3969,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 303,
+    "fraction": 0.485,
+    "scrollY": 3929,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 304,
+    "fraction": 0.48,
+    "scrollY": 3888,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 305,
+    "fraction": 0.475,
+    "scrollY": 3848,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 306,
+    "fraction": 0.47,
+    "scrollY": 3807,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 307,
+    "fraction": 0.465,
+    "scrollY": 3767,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 308,
+    "fraction": 0.46,
+    "scrollY": 3726,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 309,
+    "fraction": 0.455,
+    "scrollY": 3686,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 310,
+    "fraction": 0.45,
+    "scrollY": 3645,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 311,
+    "fraction": 0.445,
+    "scrollY": 3605,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 312,
+    "fraction": 0.44,
+    "scrollY": 3564,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 313,
+    "fraction": 0.435,
+    "scrollY": 3524,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 314,
+    "fraction": 0.43,
+    "scrollY": 3483,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 315,
+    "fraction": 0.425,
+    "scrollY": 3443,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 316,
+    "fraction": 0.42,
+    "scrollY": 3402,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 317,
+    "fraction": 0.415,
+    "scrollY": 3362,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 318,
+    "fraction": 0.41,
+    "scrollY": 3321,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 319,
+    "fraction": 0.405,
+    "scrollY": 3281,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 320,
+    "fraction": 0.4,
+    "scrollY": 3240,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 321,
+    "fraction": 0.395,
+    "scrollY": 3200,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 322,
+    "fraction": 0.39,
+    "scrollY": 3159,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 323,
+    "fraction": 0.385,
+    "scrollY": 3119,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 324,
+    "fraction": 0.38,
+    "scrollY": 3078,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 325,
+    "fraction": 0.375,
+    "scrollY": 3038,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 326,
+    "fraction": 0.37,
+    "scrollY": 2997,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 327,
+    "fraction": 0.365,
+    "scrollY": 2957,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 328,
+    "fraction": 0.36,
+    "scrollY": 2916,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 329,
+    "fraction": 0.355,
+    "scrollY": 2876,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 330,
+    "fraction": 0.35,
+    "scrollY": 2835,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 331,
+    "fraction": 0.345,
+    "scrollY": 2795,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 332,
+    "fraction": 0.34,
+    "scrollY": 2754,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 333,
+    "fraction": 0.335,
+    "scrollY": 2714,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 334,
+    "fraction": 0.33,
+    "scrollY": 2673,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 335,
+    "fraction": 0.325,
+    "scrollY": 2633,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 336,
+    "fraction": 0.32,
+    "scrollY": 2592,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 337,
+    "fraction": 0.315,
+    "scrollY": 2552,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 338,
+    "fraction": 0.31,
+    "scrollY": 2511,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 339,
+    "fraction": 0.305,
+    "scrollY": 2471,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 340,
+    "fraction": 0.3,
+    "scrollY": 2430,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 341,
+    "fraction": 0.295,
+    "scrollY": 2390,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 342,
+    "fraction": 0.29,
+    "scrollY": 2349,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 343,
+    "fraction": 0.285,
+    "scrollY": 2309,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 344,
+    "fraction": 0.28,
+    "scrollY": 2268,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 345,
+    "fraction": 0.275,
+    "scrollY": 2228,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 346,
+    "fraction": 0.27,
+    "scrollY": 2187,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 347,
+    "fraction": 0.265,
+    "scrollY": 2147,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 348,
+    "fraction": 0.26,
+    "scrollY": 2106,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 349,
+    "fraction": 0.255,
+    "scrollY": 2066,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 350,
+    "fraction": 0.25,
+    "scrollY": 2025,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 351,
+    "fraction": 0.245,
+    "scrollY": 1985,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 352,
+    "fraction": 0.24,
+    "scrollY": 1944,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 353,
+    "fraction": 0.235,
+    "scrollY": 1904,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 354,
+    "fraction": 0.23,
+    "scrollY": 1863,
+    "visibleCardsCount": 3,
+    "illegalOverlap": false
+  },
+  {
+    "step": 355,
+    "fraction": 0.225,
+    "scrollY": 1823,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 356,
+    "fraction": 0.22,
+    "scrollY": 1782,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 357,
+    "fraction": 0.215,
+    "scrollY": 1742,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 358,
+    "fraction": 0.21,
+    "scrollY": 1701,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 359,
+    "fraction": 0.205,
+    "scrollY": 1661,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 360,
+    "fraction": 0.2,
+    "scrollY": 1620,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 361,
+    "fraction": 0.195,
+    "scrollY": 1580,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 362,
+    "fraction": 0.19,
+    "scrollY": 1539,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 363,
+    "fraction": 0.185,
+    "scrollY": 1499,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 364,
+    "fraction": 0.18,
+    "scrollY": 1458,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 365,
+    "fraction": 0.175,
+    "scrollY": 1418,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 366,
+    "fraction": 0.17,
+    "scrollY": 1377,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 367,
+    "fraction": 0.165,
+    "scrollY": 1337,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 368,
+    "fraction": 0.16,
+    "scrollY": 1296,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 369,
+    "fraction": 0.155,
+    "scrollY": 1256,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 370,
+    "fraction": 0.15,
+    "scrollY": 1215,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 371,
+    "fraction": 0.145,
+    "scrollY": 1175,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 372,
+    "fraction": 0.14,
+    "scrollY": 1134,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 373,
+    "fraction": 0.135,
+    "scrollY": 1094,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 374,
+    "fraction": 0.13,
+    "scrollY": 1053,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 375,
+    "fraction": 0.125,
+    "scrollY": 1013,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 376,
+    "fraction": 0.12,
+    "scrollY": 972,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 377,
+    "fraction": 0.115,
+    "scrollY": 932,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 378,
+    "fraction": 0.11,
+    "scrollY": 891,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 379,
+    "fraction": 0.105,
+    "scrollY": 851,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 380,
+    "fraction": 0.1,
+    "scrollY": 810,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 381,
+    "fraction": 0.095,
+    "scrollY": 770,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 382,
+    "fraction": 0.09,
+    "scrollY": 729,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 383,
+    "fraction": 0.085,
+    "scrollY": 689,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 384,
+    "fraction": 0.08,
+    "scrollY": 648,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 385,
+    "fraction": 0.075,
+    "scrollY": 608,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 386,
+    "fraction": 0.07,
+    "scrollY": 567,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 387,
+    "fraction": 0.065,
+    "scrollY": 527,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 388,
+    "fraction": 0.06,
+    "scrollY": 486,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 389,
+    "fraction": 0.055,
+    "scrollY": 446,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 390,
+    "fraction": 0.05,
+    "scrollY": 405,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 391,
+    "fraction": 0.045,
+    "scrollY": 365,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 392,
+    "fraction": 0.04,
+    "scrollY": 324,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 393,
+    "fraction": 0.035,
+    "scrollY": 284,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 394,
+    "fraction": 0.03,
+    "scrollY": 243,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 395,
+    "fraction": 0.025,
+    "scrollY": 203,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 396,
+    "fraction": 0.02,
+    "scrollY": 162,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 397,
+    "fraction": 0.015,
+    "scrollY": 122,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 398,
+    "fraction": 0.01,
+    "scrollY": 81,
+    "visibleCardsCount": 2,
+    "illegalOverlap": false
+  },
+  {
+    "step": 399,
+    "fraction": 0.005,
+    "scrollY": 41,
+    "visibleCardsCount": 1,
+    "illegalOverlap": false
+  },
+  {
+    "step": 400,
+    "fraction": 0,
+    "scrollY": 0,
+    "visibleCardsCount": 1,
+    "illegalOverlap": false
+  }
+]

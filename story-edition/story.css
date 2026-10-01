@@ -1,0 +1,195 @@
+@import 'lenis/dist/lenis.css';
+
+:root {
+  --bg-grey: #D9D9D9;
+  --bg-orange: #F0561F;
+  --color-black: #0c0c0e;
+  --color-white: #ffffff;
+  --color-orange: #F0561F;
+  --color-blue: #0066FF;
+  --font-headline: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Universal scrollbar suppression: clean full-bleed viewport */
+html, body, * {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+html, body {
+  background-color: var(--color-black);
+  color: var(--color-black);
+  font-family: var(--font-headline);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}
+
+/* Master Fixed 100svh Stage (svh prevents mobile address-bar reflows) */
+.cinematic-stage {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100svh;
+  overflow: hidden;
+  pointer-events: auto;
+  z-index: 10;
+  background-color: var(--bg-grey);
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+}
+
+/* Individual Pinned Scene */
+.cinematic-scene {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2.5rem 3.5rem;
+  pointer-events: none;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+}
+
+/* Swiss Alignment Crosshairs (+) at Viewport Corners & Midpoints */
+.crosshair {
+  position: fixed;
+  width: 15px;
+  height: 15px;
+  pointer-events: none;
+  z-index: 9990;
+  opacity: 0.55;
+  transition: opacity 0.3s ease;
+}
+
+.crosshair::before,
+.crosshair::after {
+  content: '';
+  position: absolute;
+  background-color: currentColor;
+}
+
+.crosshair::before {
+  top: 7px;
+  left: 0;
+  width: 15px;
+  height: 1px;
+}
+
+.crosshair::after {
+  top: 0;
+  left: 7px;
+  width: 1px;
+  height: 15px;
+}
+
+.crosshair-tl { top: 24px; left: 24px; }
+.crosshair-tr { top: 24px; right: 24px; }
+.crosshair-tc { top: 24px; left: 50%; transform: translateX(-50%); }
+.crosshair-bl { bottom: 24px; left: 24px; }
+.crosshair-br { bottom: 24px; right: 24px; }
+.crosshair-bc { bottom: 24px; left: 50%; transform: translateX(-50%); }
+.crosshair-ml { top: 50%; left: 24px; transform: translateY(-50%); }
+.crosshair-mr { top: 50%; right: 24px; transform: translateY(-50%); }
+
+/* High-Performance Static Film Grain: Zero CPU cost, no canvas loops, no mix-blend readbacks */
+.film-grain-static {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100svh;
+  pointer-events: none;
+  z-index: 9980;
+  opacity: 0.038;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  transform: translate3d(0, 0, 0);
+}
+
+/* Custom Cursor: GPU Transform only */
+.custom-cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: var(--color-blue);
+  pointer-events: none;
+  z-index: 999999;
+  will-change: transform;
+  transform: translate3d(-50%, -50%, 0);
+  transition: width 0.2s ease, height 0.2s ease, background-color 0.2s ease;
+}
+
+.custom-cursor-dot.cursor-orange {
+  background-color: var(--color-orange);
+  width: 14px;
+  height: 14px;
+}
+
+.custom-cursor-dot.cursor-red {
+  background-color: #ff2b2b;
+  width: 18px;
+  height: 18px;
+}
+
+/* Hide Default Cursor on Pointer Devices */
+@media (hover: hover) and (pointer: fine) {
+  body.cinematic-body, body.cinematic-body * {
+    cursor: none !important;
+  }
+}
+
+/* Typography Classes */
+.font-headline {
+  font-family: var(--font-headline);
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.04em;
+  line-height: 0.85;
+}
+
+.font-mono-tag {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+}
+
+/* Sliced Statement Lines (Scene 2) */
+.slice-statement-line {
+  position: relative;
+  overflow: hidden;
+  display: block;
+}
+
+/* Orange Circular Wipe Layer */
+.circular-wipe {
+  position: fixed;
+  inset: 0;
+  background-color: var(--bg-orange);
+  z-index: 15;
+  clip-path: circle(0% at 50% 50%);
+  pointer-events: none;
+  will-change: clip-path;
+  transform: translate3d(0, 0, 0);
+}
